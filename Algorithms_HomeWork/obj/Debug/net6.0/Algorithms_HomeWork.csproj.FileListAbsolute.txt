@@ -1,0 +1,14 @@
+C:\Users\sefer\OneDrive\Desktop\Algorithms_HomeWork\Algorithms_HomeWork\obj\Debug\net6.0\Algorithms_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefer\OneDrive\Desktop\Algorithms_HomeWork\Algorithms_HomeWork\obj\Debug\net6.0\Algorithms_HomeWork.AssemblyInfoInputs.cache
+C:\Users\sefer\OneDrive\Desktop\Algorithms_HomeWork\Algorithms_HomeWork\obj\Debug\net6.0\Algorithms_HomeWork.AssemblyInfo.cs
+C:\Users\sefer\OneDrive\Desktop\Algorithms_HomeWork\Algorithms_HomeWork\obj\Debug\net6.0\Algorithms_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\sefer\OneDrive\Desktop\Algorithms_HomeWork\Algorithms_HomeWork\bin\Debug\net6.0\Algorithms_HomeWork.exe
+C:\Users\sefer\OneDrive\Desktop\Algorithms_HomeWork\Algorithms_HomeWork\bin\Debug\net6.0\Algorithms_HomeWork.deps.json
+C:\Users\sefer\OneDrive\Desktop\Algorithms_HomeWork\Algorithms_HomeWork\bin\Debug\net6.0\Algorithms_HomeWork.runtimeconfig.json
+C:\Users\sefer\OneDrive\Desktop\Algorithms_HomeWork\Algorithms_HomeWork\bin\Debug\net6.0\Algorithms_HomeWork.dll
+C:\Users\sefer\OneDrive\Desktop\Algorithms_HomeWork\Algorithms_HomeWork\bin\Debug\net6.0\Algorithms_HomeWork.pdb
+C:\Users\sefer\OneDrive\Desktop\Algorithms_HomeWork\Algorithms_HomeWork\obj\Debug\net6.0\Algorithms_HomeWork.dll
+C:\Users\sefer\OneDrive\Desktop\Algorithms_HomeWork\Algorithms_HomeWork\obj\Debug\net6.0\refint\Algorithms_HomeWork.dll
+C:\Users\sefer\OneDrive\Desktop\Algorithms_HomeWork\Algorithms_HomeWork\obj\Debug\net6.0\Algorithms_HomeWork.pdb
+C:\Users\sefer\OneDrive\Desktop\Algorithms_HomeWork\Algorithms_HomeWork\obj\Debug\net6.0\Algorithms_HomeWork.genruntimeconfig.cache
+C:\Users\sefer\OneDrive\Desktop\Algorithms_HomeWork\Algorithms_HomeWork\obj\Debug\net6.0\ref\Algorithms_HomeWork.dll
