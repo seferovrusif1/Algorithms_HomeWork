@@ -31,25 +31,11 @@
 
 
             //Task 2-  2 dəyişənin dəyərlərini 3cü dəyişən istifadə etmədən dəyişin
-
-            int a = 4;
-            int b = 8;
-            a = a * b;
-            b = a / b;
-            a = a / b;
-            ////bu usulu "/","*","+","-" ilede etmek olar ama "*" ve "+" daha rahtdi mence
-            /// "/" ile etsek int32 problem yaradacaq data type deyisdirmeliyik
+            /// "/" "*" ile etsek 0 da problem yaradacaq
             //a = a + b;
             //b = a - b;
             //a = a - b;
-
-            //a = a - b;
-            //b = a + b;
-            //a = b - a;
-
             Console.WriteLine("a= " + a + "  b= " + b);
-
-
 
             //c# imkannlarindan istifade edib belede etmek olar
             int c = 10;
